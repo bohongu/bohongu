@@ -11,12 +11,6 @@
 
 <div align="center">
 
-<br />
-
-<br>
-
-<div align="center">
-
 ### ✨ SKILL ✨
 
 <br>
