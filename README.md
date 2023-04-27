@@ -35,8 +35,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
-<br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohongu&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-
 </div>
 <br />
