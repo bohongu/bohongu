@@ -5,7 +5,6 @@
 
 </div>
 <p align="center">
-<a href="https://ethereal-family-424.notion.site/Hello-JaeHong-43f9b64ba5ed4b5b98b3e5c9dcc20f17?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@bohongu"><img src="https://img.shields.io/badge/-velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </p>
 <br>
